@@ -1,2 +1,0 @@
-# FirstProject
-Learning to code
